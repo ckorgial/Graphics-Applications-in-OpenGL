@@ -1,0 +1,5 @@
+﻿  Graphics_3.cpp
+C:\Users\30694\Documents\ΠΜΣ\ΠΡΟΠΤΥΧΙΑΚΑ\Γραφικά\Graphics_3\Graphics_3\Graphics_3.cpp(51,34): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\30694\Documents\ΠΜΣ\ΠΡΟΠΤΥΧΙΑΚΑ\Γραφικά\Graphics_3\Graphics_3\Graphics_3.cpp(51,63): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\30694\Documents\ΠΜΣ\ΠΡΟΠΤΥΧΙΑΚΑ\Γραφικά\Graphics_3\Graphics_3\Graphics_3.cpp(43): warning C4172: returning address of local variable or temporary: Normalized_N
+  Graphics_3.vcxproj -> C:\Users\30694\Documents\ΠΜΣ\ΠΡΟΠΤΥΧΙΑΚΑ\Γραφικά\Graphics_3\Debug\Graphics_3.exe
