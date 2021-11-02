@@ -1,0 +1,68 @@
+﻿'Graphics_2a.exe' (Win32): Loaded 'C:\Users\30694\Documents\ΠΜΣ\ΠΡΟΠΤΥΧΙΑΚΑ\Γραφικά\Graphics_2a\Debug\Graphics_2a.exe'. Symbols loaded.
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\opengl32.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glut32.dll'. Module was built without symbols.
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glu32.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. 
+The thread 0x2d04 has exited with code 0 (0x0).
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\clbcatq.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\AppXDeploymentClient.dll'. 
+'Graphics_2a.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\AppXDeploymentClient.dll'
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0365656.inf_amd64_5926d42fa64b989d\B365142\atiglpxx.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0365656.inf_amd64_5926d42fa64b989d\B365142\atioglxx.dll'. 
+'Graphics_2a.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0365656.inf_amd64_5926d42fa64b989d\B365142\atioglxx.dll'
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0365656.inf_amd64_5926d42fa64b989d\B365142\atioglxx.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\setupapi.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dxva2.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcrypt.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0365656.inf_amd64_5926d42fa64b989d\B365142\atigktxx.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\atiadlxy.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\psapi.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\propsys.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\pdh.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wintrust.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msasn1.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\windows.storage.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wldp.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\DXCore.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ws2_32.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. 
+'Graphics_2a.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. 
+The thread 0x2a04 has exited with code 0 (0x0).
+The thread 0x4afc has exited with code 0 (0x0).
+The thread 0x4960 has exited with code 0 (0x0).
+The thread 0x2f78 has exited with code 0 (0x0).
+The program '[16936] Graphics_2a.exe' has exited with code 0 (0x0).
